@@ -1,0 +1,26 @@
+'C:/Users/samse/AppData/Local/Google/Chrome/User Data/Profile 2/History'
+C:\Users\samse\PythonCode
+
+opencv_lbphfaces:
+   threshold: 1.7976931348623157e+308
+   radius: 1
+   neighbors: 8
+   grid_x: 8
+   grid_y: 8
+   histograms:
+      - !!opencv-matrix
+         rows: 1
+         cols: 16384
+         dt: f
+         data: [
+    labels: !!opencv-matrix
+      rows: 84
+      cols: 1
+      dt: i
+      data: [ 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 3, 3, 3,
+          3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6,
+          6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8,
+          8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 10, 10, 10,
+          11, 11 ]
+   labelsInfo:
+      []
